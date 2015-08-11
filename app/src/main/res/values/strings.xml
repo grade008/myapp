@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">myapp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_testdraw">testdraw</string>
+    <string name="title_activity_imgeview">Imgeview</string>
+    <string name="title_activity_musicplay">musicplay</string>
+</resources>
